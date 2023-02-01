@@ -1,0 +1,16 @@
+.transactionHistory {
+   margin-left: 25px;
+   
+}
+.titleList {
+font-size: 20px;
+outline: 1px solid darkgray;
+font-weight: bold;
+padding: 5px;
+}
+.list {
+    width: 100px;
+    font-size: 20px;
+    padding: 5px;
+    outline: 1px solid darkgray;
+}
